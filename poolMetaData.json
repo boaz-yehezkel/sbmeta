@@ -1,6 +1,6 @@
 {
-  "name": "[STBKR] StakeBaker",
-  "description": "StakeBaker are building tools and platforms to allow everybody to launch and manage a stakepool.",
+  "name": "StakeBaker",
+  "description": "StakeBaker are building tools and platforms that take the headache out of launching and managing stakepools",
   "ticker": "STBKR",
   "homepage": "https://stakebaker.io"
 }
